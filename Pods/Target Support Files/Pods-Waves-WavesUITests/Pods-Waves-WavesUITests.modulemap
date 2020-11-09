@@ -1,0 +1,6 @@
+framework module Pods_Waves_WavesUITests {
+  umbrella header "Pods-Waves-WavesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
